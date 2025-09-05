@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>597604842464-b3pggt0vhdohstat3g815og2lg0kgcao.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.597604842464-b3pggt0vhdohstat3g815og2lg0kgcao</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>597604842464-4i2f4nur4li1ttfu5eepsgaetinfbfnc.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCXMnjgsvd8p35K3RaJ3gMX0BdbVnL22MI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>597604842464</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.appsnado.nouvoprix</string>
+	<key>PROJECT_ID</key>
+	<string>nouvoprix-cf3a6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nouvoprix-cf3a6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string></string>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:597604842464:ios:9a32076af5ddd0cddac985</string>
+</dict>
+</plist>

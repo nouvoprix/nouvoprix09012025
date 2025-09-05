@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "597604842464",
+    "project_id": "nouvoprix-cf3a6",
+    "storage_bucket": "nouvoprix-cf3a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597604842464:android:1884c2ec3cea2398dac985",
+        "android_client_info": {
+          "package_name": "com.appsnado.nouvoprix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597604842464-ajq4pu2akrtl3gn1kn5n8iq1o2h4ljbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL-HpgI2nRY0_Pc3-1J3wckpN8AJLo1o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597604842464-ajq4pu2akrtl3gn1kn5n8iq1o2h4ljbc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "597604842464-b3pggt0vhdohstat3g815og2lg0kgcao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.appsnado.nouvoprix"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

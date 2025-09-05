@@ -1,0 +1,31 @@
+diff --git a/node_modules/react-native-slider/lib/Slider.js b/node_modules/react-native-slider/lib/Slider.js
+index c640410..24f95fc 100644
+--- a/node_modules/react-native-slider/lib/Slider.js
++++ b/node_modules/react-native-slider/lib/Slider.js
+@@ -6,6 +6,8 @@ var _react=require("react");var _react2=_interopRequireDefault(_react);
+ 
+ var _reactNative=require("react-native");
+ 
++import {ViewPropTypes} from 'deprecated-react-native-prop-types';
++import {ImagePropTypes} from 'deprecated-react-native-prop-types';
+ 
+ 
+ 
+@@ -549,13 +551,13 @@ return false;}}]);return Slider;}(_react.PureComponent);Slider.propTypes={ /**
+      * the slider is released).
+      */onSlidingComplete:_propTypes2.default.func, /**
+      * The style applied to the slider container.
+-     */style:_reactNative.ViewPropTypes.style, /**
++     */style:ViewPropTypes.style, /**
+      * The style applied to the track.
+-     */trackStyle:_reactNative.ViewPropTypes.style, /**
++     */trackStyle:ViewPropTypes.style, /**
+      * The style applied to the thumb.
+-     */thumbStyle:_reactNative.ViewPropTypes.style, /**
++     */thumbStyle:ViewPropTypes.style, /**
+      * Sets an image for the thumb.
+-     */thumbImage:_reactNative.Image.propTypes.source, /**
++     */thumbImage:ImagePropTypes.source, /**
+      * Set this to true to visually see the thumb touch rect in green.
+      */debugTouchArea:_propTypes2.default.bool, /**
+      * Set to true to animate values with default 'timing' animation type
